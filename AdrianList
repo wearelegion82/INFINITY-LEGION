@@ -1,7 +1,7 @@
 <item>
  <title>[COLOR lime] Canali AdryanList [/COLOR] </title>
 <link>http://ignorame</link>
-<thumbnail>https://i.ytimg.com/vi/CcvJZHKgBls/hqdefault.jpg</thumbnail>
+<thumbnail>https://i2.wp.com/pspstation.org/wp-content/uploads/2017/06/adryanlist.png?resize=470%2C471&ssl=1</thumbnail>
 <fanart></fanart>
 <jsonrpc>plugin://plugin.program.super.favourites/?label=AdryanList&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.adryanlist%2F%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%2Fplugin.video.adryanlist%2Ficon.png</jsonrpc>
 </item>
